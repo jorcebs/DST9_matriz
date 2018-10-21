@@ -1,0 +1,40 @@
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\bin\Debug\Matriz.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\bin\Debug\Matriz.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\bin\Debug\Matriz.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Matriz\Matriz\obj\Debug\Matriz.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\bin\Debug\Matriz.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\8. Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\bin\Debug\Matriz.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.pdb
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\bin\Debug\Matriz.exe
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\bin\Debug\Matriz.pdb
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.Form1.resources
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.Properties.Resources.resources
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.csproj.GenerateResource.Cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.exe
+C:\Users\Ernesto Galindo\Documents\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\9. Matriz\Matriz\obj\Debug\Matriz.pdb
